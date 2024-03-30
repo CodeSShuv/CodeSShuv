@@ -1,10 +1,10 @@
 # Hi there, I'm Shuvam Gautam! 👋
 
-I'm a [your_profession_here] based in [your_location_here], passionate about [your_interests_here]. Welcome to my GitHub profile! 
+I'm a Web Developer(still learning) based in KTM,Nepal, passionate about computers. Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on [your_current_projects_here]
+- 🔭 I’m currently working on [actually i am still learning ( make sure to checkout my repos)]
 - 🌱 I’m currently learning [DSA, Backend development using node and express]
-- 💬 Ask me about [Anything about tech if i can answer, ask me another one but if i couldn't then help me learn it.]
+- 💬 Ask me about [Anything about tech, if i can answer, ask me another one but if i can't then help me learn it.]
 - 📫 How to reach me: []
 - 😄 Pronouns: [never got this thing]
 - ⚡ Fun fact: [laziness and has increased my creativity]
