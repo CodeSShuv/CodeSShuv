@@ -3,22 +3,22 @@
 I'm a [your_profession_here] based in [your_location_here], passionate about [your_interests_here]. Welcome to my GitHub profile! 
 
 - 🔭 I’m currently working on [your_current_projects_here]
-- 🌱 I’m currently learning [your_current_learning_goals_here]
-- 💬 Ask me about [topics_you_are_interested_in]
-- 📫 How to reach me: [your_contact_information_here]
-- 😄 Pronouns: [your_pronouns_here]
-- ⚡ Fun fact: [a_fun_fact_about_yourself]
+- 🌱 I’m currently learning [DSA, Backend development using node and express]
+- 💬 Ask me about [Anything about tech if i can answer, ask me another one but if i couldn't then help me learn it.]
+- 📫 How to reach me: []
+- 😄 Pronouns: [never got this thing]
+- ⚡ Fun fact: [laziness and has increased my creativity]
 
 ## 🚀 Skills and Technologies:
 
-- [Skill/Technology 1]
-- [Skill/Technology 2]
-- [Skill/Technology 3]
+- [Reactjs]
+- [C++ (still learning)]
+- [Backend( still learning [express,mongodb]
 - ...
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuvamg&show_icons=true&theme=radical)
+
 
 ## 📫 Connect with Me:
 
