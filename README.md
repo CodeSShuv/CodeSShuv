@@ -4,7 +4,7 @@ I'm a Web Developer(still learning) based in KTM,Nepal, passionate about compute
 
 - 🔭 I’m currently working on [actually i am still learning ( make sure to checkout my repos)]
 - 🌱 I’m currently learning [DSA, Backend development using node and express]
-- 💬 Ask me about [Anything about tech, if i can answer, ask me another one but if i can't then help me learn it.]
+- 💬 Ask me about [Anything about tech. If i can answer, ask me another one but if i can't then help me learn it.]
 - 📫 How to reach me: []
 - 😄 Pronouns: [never got this thing]
 - ⚡ Fun fact: [laziness has increased my creativity]
@@ -12,8 +12,8 @@ I'm a Web Developer(still learning) based in KTM,Nepal, passionate about compute
 ## 🚀 Skills and Technologies:
 
 - Reactjs
-- C++ (still learning)
-- Backend( still learning [express,mongodb])
+- Java (still learning)
+- Backend( still learning [express,nodejs,mongodb])
 
 ## 📊 GitHub Stats:
 
