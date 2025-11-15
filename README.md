@@ -1,7 +1,7 @@
 
 
 <h1 align="center">🌌 Shuvam Gautam — CodeSShuv</h1>
-<h3 align="center">Full-Stack Developer • MERN • Java DSA • UI/UX</h3>
+<h3 align="center">Full-Stack Developer • MERN • Java DSA •</h3>
 
 <p align="center">
   <em>“Design lightly. Code efficiently. Build for the future.”</em>
@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-1f1f1f?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Kathmandu,%20Nepal-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Intern-UI%2FUX-1f1f1f?style=for-the-badge"/>
+  
 </p>
 
 <br/>
