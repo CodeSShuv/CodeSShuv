@@ -1,32 +1,97 @@
-# Hi there, I'm Shuvam Gautam! 👋
-
-I'm a Web Developer(still learning) based in KTM,Nepal, passionate about computers. Welcome to my GitHub profile! 
-
-- 🔭 I’m currently working on [actually i am still learning ( make sure to checkout my repos)]
-- 🌱 I’m currently learning [DSA, Backend development using node and express]
-- 💬 Ask me about 
-- 📫 How to reach me: []
-- 😄 Pronouns: [never got this thing]
-- ⚡ Fun fact: 
-
-## 🚀 Skills and Technologies:
-
-- Reactjs
-- Java (still learning)
-- Backend( [express,nodejs,mongodb])
-
-## 📊 GitHub Stats:
 
 
+<h1 align="center">🌌 Shuvam Gautam — CodeSShuv</h1>
+<h3 align="center">Full-Stack Developer • MERN • Java DSA • UI/UX</h3>
 
-## 📫 Connect with Me:
+<p align="center">
+  <em>“Design lightly. Code efficiently. Build for the future.”</em>
+</p>
 
-- [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-- [![Twitter Logo](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-- [![Website Logo](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.yourwebsite.com)
-- Email: [Shuvam Gautam](mailto:contactshuvam1@gmail.com)
+<br/>
 
-Feel free to reach out and connect! 😊
 
-Here's a fun animation to brighten your day:
-![Animated GIF](https://example.com/your-animation.gif)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-1f1f1f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Kathmandu,%20Nepal-1f1f1f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Intern-UI%2FUX-1f1f1f?style=for-the-badge"/>
+</p>
+
+<br/>
+
+---
+
+## 🌐 About Me
+
+I’m a **self-taught Full-Stack MERN Developer** passionate about creating modern, clean and scalable digital experiences.
+
+I focus on:
+- futuristic + minimal web interfaces  
+- secure backend architectures  
+- real-time communication (Socket.IO)  
+- authentication systems  
+- continuous learning and building  
+
+---
+
+## 🧬 Tech Stack (with Icons)
+
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" height="50"/>
+</p>
+
+### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
+</p>
+
+
+### **Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+</p>
+
+### **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,python" height="50"/>
+</p>
+
+### **Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="50"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### **1. 🚀 Portfolio Website**
+A clean, minimal portfolio showcasing my work.  
+🔗 https://codesshuv.github.io/portfolio/
+
+### **2. 🪐 Anonymous Confession Site**
+Simple, fun, modern UI experience.  
+🔗 https://anonymousconfession.netlify.app/
+
+### **3. 🛍️ E-commerce Platform (In Progress)**
+Full MERN project with auth, admin, cart, API design.
+
+### **4. ⚡ Real-Time Socket.IO Projects**
+Building chat + live updates.
+
+---
+
+## 📚 Currently Learning
+
+---
+
+## 🌌 GitHub Stats (Minimal + Futuristic)
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=codesshuv&show_icons=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesshuv&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🔗 Connect With Me
