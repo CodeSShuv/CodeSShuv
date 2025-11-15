@@ -33,7 +33,7 @@ I focus on:
 
 ---
 
-## 🧬 Tech Stack (with Icons)
+## 🧬 Tech Stack 
 
 ### **Frontend**
 <p align="left">
@@ -85,7 +85,7 @@ Building chat + live updates.
 
 ---
 
-## 🌌 GitHub Stats (Minimal + Futuristic)
+## 🌌 GitHub Stats 
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=codesshuv&show_icons=true&theme=transparent" />
@@ -94,4 +94,3 @@ Building chat + live updates.
 
 ---
 
-## 🔗 Connect With Me
